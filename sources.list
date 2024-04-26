@@ -11,7 +11,10 @@
 # 一行 'EOF' 表示配置文件结束，忽略下方所有内容。
 # ============================================================
 
-https://raw.githubusercontent.com/mianfeifq/share/main/README.md#ignore=vmess
-https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md#ignore=vmess
-https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md#ignore=vmess
-https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md#ignore=vmess,vless
+# https://raw.githubusercontent.com/mianfeifq/share/main/README.md#ignore=vmess
+# https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md#ignore=vmess
+# https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md#ignore=vmess
+# https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md#ignore=vmess,vless
+https://github.com/mksshare/mksshare.github.io/raw/main/README.md
+https://github.com/abshare/abshare.github.io/raw/main/README.md
+https://github.com/tolinkshare/freenode/raw/main/README.md
