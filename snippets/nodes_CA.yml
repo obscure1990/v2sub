@@ -1,7 +1,37 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 4|🇨🇦_CA_加拿大_28
+  name: 0|🇨🇦加拿大04
+  network: tcp
+  port: '36701'
+  server: free.2weradf.xyz
+  servername: ca04.abpilot.xyz
+  tls: true
+  type: vmess
+  uuid: 68471d85-b33c-475d-81cd-3d1a303a4aeb
+- alterId: 0
+  cipher: auto
+  name: 1|【BGP】加拿大 02 | 1x CA
+  network: tcp
+  port: '31701'
+  server: free.2apzhfa.xyz
+  servername: ca04.lovemc.xyz
+  tls: true
+  type: vmess
+  uuid: a6390857-3514-4e78-91cf-14fa763191da
+- alterId: 0
+  cipher: auto
+  name: '2|🇨🇦加拿大 | 107 | 负载优化 | 1x '
+  network: tcp
+  port: '30601'
+  server: free.6vczxw.xyz
+  servername: ca07.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
+- alterId: 0
+  cipher: auto
+  name: 3|🇨🇦_CA_加拿大_28
   network: ws
   port: 443
   server: 158.51.123.111

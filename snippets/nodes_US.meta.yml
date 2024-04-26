@@ -1,7 +1,47 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 4|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
+  name: 2|🇺🇸美国 | chatgpt解锁专用 | 1x
+  network: tcp
+  port: '30901'
+  server: free.6vczxw.xyz
+  servername: nl01.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸美国[特殊地区直连]
+  network: tcp
+  port: '30501'
+  server: free.6vczxw.xyz
+  servername: us01.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸美国 | 108 | 负载优化 | 1x
+  network: tcp
+  port: '30506'
+  server: free.6vczxw.xyz
+  servername: us08.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸美国 | 109 | 负载优化 | 1x
+  network: tcp
+  port: '30511'
+  server: free.6vczxw.xyz
+  servername: us09.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
   network: ws
   port: 80
   server: us219.netfilx.live
@@ -14,7 +54,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 4|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_17
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_17
   network: ws
   port: 2095
   server: fcdn.flha.ru

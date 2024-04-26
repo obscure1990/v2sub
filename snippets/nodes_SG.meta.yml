@@ -1,1 +1,31 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 2|🇸🇬新加坡[特殊地区直连]
+  network: tcp
+  port: '30201'
+  server: free.6vczxw.xyz
+  servername: sg01.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
+- alterId: 0
+  cipher: auto
+  name: 2|🇸🇬新加坡 | 108 | 流媒体优化 | 1x
+  network: tcp
+  port: '30206'
+  server: free.6vczxw.xyz
+  servername: sg08.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
+- alterId: 0
+  cipher: auto
+  name: 2|🇸🇬新加坡 | 109 | 负载优化 | 1x
+  network: tcp
+  port: '30211'
+  server: free.6vczxw.xyz
+  servername: sg09.tomoony.xyz
+  tls: true
+  type: vmess
+  uuid: f0cdab09-b53d-4df7-add5-cb6a29b5f0fa
