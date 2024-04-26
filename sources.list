@@ -23,10 +23,10 @@
 # https://raw.githubusercontent.com/Mr8AHAL/v2ray/main/SERVER.txt
 
 https://raw.githubusercontent.com/mianfeifq/share/main/README.md#ignore=vmess
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vmess#ignore=vmess
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml#ignore=vmess,ss,ssr
+# https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+# https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+# https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vmess#ignore=vmess
+# https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml#ignore=vmess,ss,ssr
 
 # 小水管
 https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md#ignore=vmess
@@ -80,9 +80,9 @@ https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md#ignore=vme
 # !https://free.jingfu.cf/clash/proxies
 
 # Copied from https://github.com/ClodQiu/Clash.Base64/blob/Grey/Node.Address
-https://vpnyyds.link/free
+# https://vpnyyds.link/free
 # !https://jc.openxai.link/
-!https://gitlab.com/colloq168/nodefiltrate/-/raw/main/filtrate?ref_type=heads
+# !https://gitlab.com/colloq168/nodefiltrate/-/raw/main/filtrate?ref_type=heads
 
 
 # Airports
