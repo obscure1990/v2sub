@@ -8,7 +8,7 @@ proxies:
   servername: nl01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
+  uuid: 4c94fbde-ae99-4044-b8e0-aafb75973e8e
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国[特殊地区直连]
@@ -18,7 +18,7 @@ proxies:
   servername: us01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
+  uuid: 4c94fbde-ae99-4044-b8e0-aafb75973e8e
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 108 | 负载优化 | 1x
@@ -28,7 +28,7 @@ proxies:
   servername: us08.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
+  uuid: 4c94fbde-ae99-4044-b8e0-aafb75973e8e
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 109 | 负载优化 | 1x
@@ -38,7 +38,7 @@ proxies:
   servername: us09.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
+  uuid: 4c94fbde-ae99-4044-b8e0-aafb75973e8e
 - alterId: 0
   cipher: auto
   name: 3|🇺🇸_US_美国_由快嘴科技提供;kkzui.com_4
