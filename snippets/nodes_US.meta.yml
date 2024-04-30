@@ -8,7 +8,7 @@ proxies:
   servername: nl01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 38f125b7-b286-4ab6-bcb8-5f5f31b2625f
+  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国[特殊地区直连]
@@ -18,7 +18,7 @@ proxies:
   servername: us01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 38f125b7-b286-4ab6-bcb8-5f5f31b2625f
+  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 108 | 负载优化 | 1x
@@ -28,7 +28,7 @@ proxies:
   servername: us08.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 38f125b7-b286-4ab6-bcb8-5f5f31b2625f
+  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 109 | 负载优化 | 1x
@@ -38,26 +38,26 @@ proxies:
   servername: us09.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 38f125b7-b286-4ab6-bcb8-5f5f31b2625f
+  uuid: 388a90a2-7c0a-44f5-a296-f8b467e54dc3
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_4_由快嘴科技提供;kkzui.com1
+  name: 3|🇺🇸_US_美国_由快嘴科技提供;kkzui.com_4
   network: ws
-  port: 8080
-  server: yh9.dtku41.xyz
+  port: 2052
+  server: cfcdn1.sanfencdn9.com
   tls: false
   type: vmess
-  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  uuid: 8c7b39d2-eb80-48d4-9471-76bddc5273c8
   ws-opts:
     headers:
-      Host: hang-broke-john-neither.trycloudflare.com
-    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_5_由快嘴科技提供;kkzui.com2
+  name: 3|🇺🇸_US_美国_3_由快嘴科技提供;kkzui.com3
   network: ws
   port: 8080
-  server: yh7.dtku41.xyz
+  server: 104.17.17.103
   tls: false
   type: vmess
   uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a

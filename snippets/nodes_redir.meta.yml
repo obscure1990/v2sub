@@ -1,20 +1,20 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_由快嘴科技提供;kkz...
+  name: 3|🇨🇳_CN_中国->🇺🇸_US_美国_由快嘴科技提供;kkz...
   network: ws
-  port: 2052
-  server: cfcdn1.sanfencdn9.com
+  port: 16928
+  server: vip3.niuniupremium.xyz
   tls: false
   type: vmess
-  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
+  uuid: 2ab54438-8af9-3711-bf1a-676fcc144586
   ws-opts:
     headers:
-      Host: helanv6cf.inekokkk.top
-    path: /
+      Host: 193.25.215.160
+    path: /v2ray
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_2_2
+  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_由快嘴科技提供;kkz...
   network: ws
   port: 2052
   server: 104.18.19.191
@@ -27,7 +27,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_3_3
+  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_2_7
   network: ws
   port: 2052
   server: 104.19.250.15
@@ -40,7 +40,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_4_5
+  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_3_8
   network: ws
   port: 2052
   server: 104.18.36.119
@@ -51,3 +51,29 @@ proxies:
     headers:
       Host: helanv6cf.inekokkk.top
     path: /
+- alterId: 0
+  cipher: auto
+  name: 3|🇨🇾_CY_塞浦路斯->🇨🇦_CA_加拿大_由快嘴科技提供;...
+  network: ws
+  port: 8080
+  server: yh9.dtku41.xyz
+  tls: false
+  type: vmess
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  ws-opts:
+    headers:
+      Host: hang-broke-john-neither.trycloudflare.com
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国->🇬🇧_GB_英国_由快嘴科技提供;kkz...
+  network: ws
+  port: 8880
+  server: 104.19.40.84
+  tls: false
+  type: vmess
+  uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0
+  ws-opts:
+    headers:
+      Host: uk.moss.network
+    path: /d/65dd503.TG.WangCai2.WangCai_8:107690
