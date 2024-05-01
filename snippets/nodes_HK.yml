@@ -8,7 +8,7 @@ proxies:
   servername: hk01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: f7ef5e08-0683-4b5b-8fc1-28505fae3311
+  uuid: 51afa728-0846-4612-affe-e4ee4e305997
 - alterId: 0
   cipher: auto
   name: 2|🇭🇰香港 | 102 | 流媒体优化 | 1x
@@ -18,7 +18,7 @@ proxies:
   servername: hk02.tomoony.xyz
   tls: true
   type: vmess
-  uuid: f7ef5e08-0683-4b5b-8fc1-28505fae3311
+  uuid: 51afa728-0846-4612-affe-e4ee4e305997
 - alterId: 0
   cipher: auto
   name: 2|🇭🇰香港 | 103 | 负载优化 | 1x
@@ -28,4 +28,4 @@ proxies:
   servername: hk03.tomoony.xyz
   tls: true
   type: vmess
-  uuid: f7ef5e08-0683-4b5b-8fc1-28505fae3311
+  uuid: 51afa728-0846-4612-affe-e4ee4e305997
