@@ -8,7 +8,7 @@ proxies:
   servername: nl01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: ae9cc8f4-2827-47d4-92c9-edb87fb43f50
+  uuid: 8d05b753-0cac-4f09-af29-bd35d44201e5
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国[特殊地区直连]
@@ -18,7 +18,7 @@ proxies:
   servername: us01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: ae9cc8f4-2827-47d4-92c9-edb87fb43f50
+  uuid: 8d05b753-0cac-4f09-af29-bd35d44201e5
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 108 | 负载优化 | 1x
@@ -28,7 +28,7 @@ proxies:
   servername: us08.tomoony.xyz
   tls: true
   type: vmess
-  uuid: ae9cc8f4-2827-47d4-92c9-edb87fb43f50
+  uuid: 8d05b753-0cac-4f09-af29-bd35d44201e5
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 109 | 负载优化 | 1x
@@ -38,17 +38,43 @@ proxies:
   servername: us09.tomoony.xyz
   tls: true
   type: vmess
-  uuid: ae9cc8f4-2827-47d4-92c9-edb87fb43f50
+  uuid: 8d05b753-0cac-4f09-af29-bd35d44201e5
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_3_由快嘴科技提供：kkzui.com8
+  name: 3|🇺🇸_US_美国_2_9
   network: ws
-  port: 2082
-  server: 104.21.8.157
+  port: 2052
+  server: cfcdn1.sanfencdn9.com
   tls: false
   type: vmess
-  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  uuid: 7f40abd1-6397-4706-8510-bc5d08df8ad5
   ws-opts:
     headers:
-      Host: s1c.v2.v001sss.xyz
-    path: /
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
+  network: ws
+  port: 2082
+  server: cfcdn1.sanfencdn9.com
+  tls: false
+  type: vmess
+  uuid: 7f40abd1-6397-4706-8510-bc5d08df8ad5
+  ws-opts:
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /video/CuTy87zAzV/
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国->🇨🇦_CA_加拿大_23
+  network: ws
+  port: 8080
+  server: yh4.dtku41.xyz
+  tls: false
+  type: vmess
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  ws-opts:
+    headers:
+      Host: dual-nothing-prep-exit.trycloudflare.com
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
