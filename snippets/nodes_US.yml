@@ -8,7 +8,7 @@ proxies:
   servername: nl01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: c0107081-26d9-4631-b5b9-c4b6c9aaa9ce
+  uuid: ac10af71-ba80-41ef-959d-0ae29efb9a1a
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国[特殊地区直连]
@@ -18,7 +18,7 @@ proxies:
   servername: us01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: c0107081-26d9-4631-b5b9-c4b6c9aaa9ce
+  uuid: ac10af71-ba80-41ef-959d-0ae29efb9a1a
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 108 | 负载优化 | 1x
@@ -28,7 +28,7 @@ proxies:
   servername: us08.tomoony.xyz
   tls: true
   type: vmess
-  uuid: c0107081-26d9-4631-b5b9-c4b6c9aaa9ce
+  uuid: ac10af71-ba80-41ef-959d-0ae29efb9a1a
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 109 | 负载优化 | 1x
@@ -38,56 +38,95 @@ proxies:
   servername: us09.tomoony.xyz
   tls: true
   type: vmess
-  uuid: c0107081-26d9-4631-b5b9-c4b6c9aaa9ce
+  uuid: ac10af71-ba80-41ef-959d-0ae29efb9a1a
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_2
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_1
   network: ws
-  port: 2052
-  server: 104.18.131.224
+  port: 80
+  server: us6.jiedian.stream
   tls: false
   type: vmess
-  uuid: 3fdef482-3fba-47f9-af67-b3f5bf93ec4c
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
   ws-opts:
     headers:
-      Host: tw1bQiWSE4x.fzbqfrse.xyz
-    path: /video/GQ2qE5Us9g
-- alterId: 0
-  cipher: auto
-  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_10
-  network: ws
-  port: 2052
-  server: 104.17.229.133
-  tls: false
-  type: vmess
-  uuid: 07a902d1-7c2d-47de-f2c5-c2236fc7cd46
-  ws-opts:
-    headers:
-      Host: usxm.inekokkk.top
+      Host: us.cdn02.top
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_3_6
+  name: 3|🇺🇸_US_美国_2_2
   network: ws
-  port: 2052
-  server: 104.19.138.73
+  port: 8880
+  server: cfcdn1.sanfencdn9.com
   tls: false
   type: vmess
-  uuid: 3fdef482-3fba-47f9-af67-b3f5bf93ec4c
+  uuid: 2eec45db-dfcd-43d6-8514-b141aff651be
   ws-opts:
     headers:
-      Host: tw1bQiWSE4x.fzbqfrse.xyz
-    path: /video/GQ2qE5Us9g
+      Host: us6gzxQRrE4.fzbqfrse.xyz
+    path: /video/bYdJ7Vc2We
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_5_由快嘴科技提供：kkzui.com4
+  name: 3|🇺🇸_US_美国_3_4
+  network: ws
+  port: 80
+  server: us5.jiedian.stream
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: us.cdn01.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_4_5
+  network: ws
+  port: 80
+  server: us1.jiedian.stream
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_5_7
+  network: ws
+  port: 80
+  server: us2.jiedian.stream
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_6_8
   network: ws
   port: 2052
   server: cfcdn1.sanfencdn9.com
   tls: false
   type: vmess
-  uuid: 07a902d1-7c2d-47de-f2c5-c2236fc7cd46
+  uuid: 2eec45db-dfcd-43d6-8514-b141aff651be
   ws-opts:
     headers:
-      Host: usxm.inekokkk.top
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_15
+  network: ws
+  port: 2082
+  server: 172.67.130.140
+  tls: false
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts:
+    headers:
+      Host: s1c.v2.v001sss.xyz
     path: /
