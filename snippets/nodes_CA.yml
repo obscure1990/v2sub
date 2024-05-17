@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: cca20ee1-78d5-4306-8ff8-2a968818e4d3
+  uuid: 471d6a82-d58b-46f7-aafe-b3023bbf5396
 - alterId: 0
   cipher: auto
   name: 1|【BGP】加拿大 02 | 1x CA
@@ -18,7 +18,7 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 0f763e00-53e0-4028-ad88-3c38d0bd0ac6
+  uuid: 403c8012-e5bc-4598-9499-04e77160d31d
 - alterId: 0
   cipher: auto
   name: '2|🇨🇦加拿大 | 107 | 负载优化 | 1x '
@@ -28,4 +28,4 @@ proxies:
   servername: ca07.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 5cf559e8-6dbe-409b-8f8c-d518abe1abb6
+  uuid: 576b2a17-1a88-48d6-83c5-d390fd09a24b
