@@ -8,7 +8,7 @@ proxies:
   servername: nl01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: f385e113-9080-411d-93dc-53706ff007c3
+  uuid: 5cf559e8-6dbe-409b-8f8c-d518abe1abb6
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国[特殊地区直连]
@@ -18,7 +18,7 @@ proxies:
   servername: us01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: f385e113-9080-411d-93dc-53706ff007c3
+  uuid: 5cf559e8-6dbe-409b-8f8c-d518abe1abb6
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 108 | 负载优化 | 1x
@@ -28,7 +28,7 @@ proxies:
   servername: us08.tomoony.xyz
   tls: true
   type: vmess
-  uuid: f385e113-9080-411d-93dc-53706ff007c3
+  uuid: 5cf559e8-6dbe-409b-8f8c-d518abe1abb6
 - alterId: 0
   cipher: auto
   name: 2|🇺🇸美国 | 109 | 负载优化 | 1x
@@ -38,49 +38,46 @@ proxies:
   servername: us09.tomoony.xyz
   tls: true
   type: vmess
-  uuid: f385e113-9080-411d-93dc-53706ff007c3
+  uuid: 5cf559e8-6dbe-409b-8f8c-d518abe1abb6
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_2_9
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_1
   network: ws
-  port: 2052
-  server: cfcdn1.sanfencdn9.com
+  port: 80
+  server: 172.67.199.79
   tls: false
   type: vmess
-  uuid: 55444c8f-fdeb-4af4-98ee-7cf5f4667659
+  uuid: b716fb7a-0d57-46dc-8856-98d6055ebcfd
   ws-opts:
     headers:
-      Host: us3AJ8biuQx.fzbqfrse.xyz
-    path: /video/QXjZG5u4F2
-- alterId: 0
-  cipher: auto
-  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
-  network: ws
-  port: 2095
-  server: 104.16.60.8
-  tls: false
-  type: vmess
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
-  ws-opts:
-    headers:
-      Host: icy-tooth-3d05.plzthsmdnss-7d8ly.workers.dev
-    path: /obdii.cfd/linkws
-- alterId: 0
-  cipher: auto
-  name: 3|🇺🇸_US_美国->🇩🇪_DE_德国_2_由快嘴科技提供：k...
-  network: ws
-  port: 2052
-  server: 104.18.36.119
-  tls: false
-  type: vmess
-  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
-  ws-opts:
-    headers:
-      Host: helanv6cf.inekokkk.top
+      Host: is3-vmess.sshmax.xyz
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_16
+  name: 3|🇺🇸_US_美国_2_6
+  network: ws
+  port: 2086
+  server: 104.16.61.8
+  tls: false
+  type: vmess
+  uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca
+  ws-opts:
+    headers:
+      Host: ury-unit-c030ehei8.poget71138.workers.dev
+    path: /ivideos.sbs/linkws
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com4
+  network: ws
+  port: 443
+  server: 23.154.136.2
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: 3|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_18
   network: ws
   port: 8880
   server: russia.com
@@ -93,7 +90,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com8
+  name: 3|🇺🇸_US_美国_3_23
   network: ws
   port: 2095
   server: russia.com
