@@ -8,7 +8,7 @@ proxies:
   servername: sg01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 08564f4d-8f84-4e58-b450-c608ec04ecf6
+  uuid: 04480264-a2e3-49aa-be48-80e6d7393465
 - alterId: 0
   cipher: auto
   name: 2|🇸🇬新加坡 | 108 | 流媒体优化 | 1x
@@ -18,7 +18,7 @@ proxies:
   servername: sg08.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 08564f4d-8f84-4e58-b450-c608ec04ecf6
+  uuid: 04480264-a2e3-49aa-be48-80e6d7393465
 - alterId: 0
   cipher: auto
   name: 2|🇸🇬新加坡 | 109 | 负载优化 | 1x
@@ -28,4 +28,4 @@ proxies:
   servername: sg09.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 08564f4d-8f84-4e58-b450-c608ec04ecf6
+  uuid: 04480264-a2e3-49aa-be48-80e6d7393465
