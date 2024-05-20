@@ -8,7 +8,7 @@ proxies:
   servername: tw01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 8d7e884d-3baf-4093-9adb-e63f97354784
+  uuid: 7c459769-b596-4268-a2dc-e51cb4b5a44b
 - alterId: 0
   cipher: auto
   name: 2|🇹🇼台湾 | 102 | 负载优化 | 1x
@@ -18,7 +18,7 @@ proxies:
   servername: tw02.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 8d7e884d-3baf-4093-9adb-e63f97354784
+  uuid: 7c459769-b596-4268-a2dc-e51cb4b5a44b
 - alterId: 0
   cipher: auto
   name: 2|🇹🇼台湾 | 103 | 负载优化| 1x
@@ -28,4 +28,4 @@ proxies:
   servername: tw03.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 8d7e884d-3baf-4093-9adb-e63f97354784
+  uuid: 7c459769-b596-4268-a2dc-e51cb4b5a44b
