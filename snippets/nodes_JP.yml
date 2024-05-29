@@ -8,7 +8,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: b178db40-870e-4959-83ef-e724d2412164
+  uuid: 8bd60167-2810-48c3-9e74-7e86f613b9a7
 - alterId: 0
   cipher: auto
   name: 1|【BGP】日本 05  | 1x JP
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: b178db40-870e-4959-83ef-e724d2412164
+  uuid: 8bd60167-2810-48c3-9e74-7e86f613b9a7
 - alterId: 0
   cipher: auto
   name: 1|【BGP】日本 06  | 1x JP
@@ -28,7 +28,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: b178db40-870e-4959-83ef-e724d2412164
+  uuid: 8bd60167-2810-48c3-9e74-7e86f613b9a7
 - alterId: 0
   cipher: auto
   name: 2|🇯🇵日本[特殊地区直连]
@@ -38,7 +38,7 @@ proxies:
   servername: jp01.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 03da5e05-1198-4620-bee5-e3a38dca299f
+  uuid: 3584c2a8-ac86-4d1b-8ab9-7ececdcda9a8
 - alterId: 0
   cipher: auto
   name: 2|🇯🇵日本 | 108 | 流媒体优化 | 1x
@@ -48,7 +48,7 @@ proxies:
   servername: jp08.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 03da5e05-1198-4620-bee5-e3a38dca299f
+  uuid: 3584c2a8-ac86-4d1b-8ab9-7ececdcda9a8
 - alterId: 0
   cipher: auto
   name: 2|🇯🇵日本 | 109 | 负载优化 | 1x
@@ -58,4 +58,4 @@ proxies:
   servername: jp09.tomoony.xyz
   tls: true
   type: vmess
-  uuid: 03da5e05-1198-4620-bee5-e3a38dca299f
+  uuid: 3584c2a8-ac86-4d1b-8ab9-7ececdcda9a8
